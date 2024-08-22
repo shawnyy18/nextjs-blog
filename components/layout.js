@@ -4,7 +4,7 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Shawn Ashlee Guarin';
+const name = 'Kristofer Khurt de Dote';
 export const siteTitle = 'Next.js Sample Website';
 
 export default function Layout({ children, home }) {
