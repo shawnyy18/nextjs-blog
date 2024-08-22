@@ -11,7 +11,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <hr></hr>
         <h1>Web Designer</h1>
-        <p> I am Kristofer Khurt de Dote, currently a 3rd Year College student in the field of Information Technology (irregular student), I live in Moras dela Paz, Sto. Tomas, Pampanga, I'm 22 years old,  my hobbies are playing games, learning some new languages, editing some video (newbie), playing basketball, more traveling because I like seeing new places, and watching movies; my favourite musics it depends on my mood but more like local musics and rnb songs. </p>
+        <p> I am Kristofer Khurt de Dote, currently a 3rd Year College student in the field of Information Technology (irregular student), I live in Moras dela Paz, Sto. Tomas, Pampanga, I'm 22 years old,  my hobbies are playing games, learning some new languages, editing some video (newbie), playing basketball, more traveling because I like seeing new places, and watching movies my favourite musics it depends on my mood but more like local musics and rnb songs. </p>
         <p>
         </p>
         
