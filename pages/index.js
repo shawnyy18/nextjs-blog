@@ -10,28 +10,41 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <hr></hr>
-        <h1>Web Designer</h1>
-        <p> I am Kristofer Khurt de Dote, currently a 3rd Year College student in the field of Information Technology (irregular student), I live in Moras dela Paz, Sto. Tomas, Pampanga, I'm 22 years old,  my hobbies are playing games, learning some new languages, editing some video (newbie), playing basketball, more traveling because I like seeing new places, and watching movies my favourite musics it depends on my mood but more like local musics and rnb songs. </p>
+        <h1>Future Cybersecurity Professional</h1>
+        <p> an irregular I.T student of University of the Assumption who has a passion for tech stuff, especially the cybersecurity field. My favorite music is more on RNB and HipHop. For foods, I like spicy dishes.  </p>
         <p>
         </p>
         
         <h3>Why did you take up IT?</h3>
-          <p>Because I want to be a Web designer just like my other friends who are working on Manila and I like to learn more about the technology and computers
-          .</p>
+          <p>I took this course because my patience is so high when it comes to some computer or software problems. That's why I think I will excel in this industry.</p>
           <h3>What career do you see yourself exploring after graduation?
 </h3>
-          <p> Maybe taking some basic jobs and gain experience so that if I am applying for Manila I have experience 
-          .
+          <p> I want to explore the field of hacking and cybersecurity and I think I will try my best to get the CompTIA Security+ for more opportunities.
 
       </p>
       <h3>What do you expect to learn in this subject?</h3>
-        <p>Some integrated systems and more on designing and to manage system effectively . </p>
+        <p>I guess I’ll expect the architecture of a web or an app design system, and more fundamentals and tips for reactjs. </p>
 
           <h3>What topics you want to be discussed in this subject?</h3>
-            <p>The integrations strategies and techniques, Security and privacy considerations, maintenance problem and hands on projects. 
-            </p>
+            <p>For me, useful tools that we can use and benefit for the long-term. At the same time, I just want us to learn something so that even if we leave or completed the semester there is something that will be special for us students in this subject</p>
 
-      
+      <hr></hr>
+        <h2>Hobbies</h2>
+
+          <ul>
+            <li><p>Watching Educational Videos</p></li>
+            <li><p>Travelling</p></li>
+            <li><p>Reading</p></li>
+          </ul>
+          <hr></hr>
+          <h2>Technologies I Use</h2>
+          <ul>
+            <li><p>HTML</p></li>
+            <li><p>CSS</p></li>
+            <li><p>JavaScript</p></li>
+            <li><p>VSCode</p></li>
+          </ul>
+
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
